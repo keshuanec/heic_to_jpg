@@ -45,7 +45,7 @@ class App(TkinterDnD.Tk):
 
         # ── Drop zone ─────────────────────────────────────────────────────────
         self._drop_frame = tk.Frame(
-            self, bg="#e8f4fd", relief="dashed", bd=2,
+            self, bg="#e8f4fd", relief="solid", bd=1,
             highlightbackground="#2980b9", highlightthickness=2,
         )
         self._drop_frame.pack(fill="x", padx=10, pady=(10, 4))
