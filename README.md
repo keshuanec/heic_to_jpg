@@ -4,6 +4,8 @@ Offline desktopová aplikace pro macOS pro převod HEIC/HEIF fotek do JPG nebo P
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue) ![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey)
 
+![Screenshot aplikace](screenshot.png)
+
 ## Funkce
 
 - Drag & drop souborů nebo složek přímo do okna aplikace
